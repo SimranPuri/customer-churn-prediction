@@ -39,3 +39,4 @@ This project uses R and Tableau to analyze, predict, and visualize customer chur
 - Customers with **longer tenure** and **2-year contracts** had **lower churn probability**
 
 ## 🖼️ Dashboard Preview
+Customer Churn & Retention Dashboard.png
