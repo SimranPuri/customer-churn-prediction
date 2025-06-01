@@ -38,5 +38,4 @@ This project uses R and Tableau to analyze, predict, and visualize customer chur
 - Majority of **high-risk churners** were on **month-to-month contracts** with high charges  
 - Customers with **longer tenure** and **2-year contracts** had **lower churn probability**
 
-## 🖼️ Dashboard Preview
-Customer Churn & Retention Dashboard.png
+
